@@ -1,0 +1,31 @@
+# Java / Spring Boot
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.idea/
+backend/*.iml
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+frontend/.cache/
+frontend/.eslintcache
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+backend/src/main/resources/application-local.properties
+backend/src/main/resources/application-*.local.properties
