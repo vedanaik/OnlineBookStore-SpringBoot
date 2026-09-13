@@ -144,27 +144,25 @@ Add project screenshots in the empty spaces below.
 
 ### Home page
 
-<!-- Add screenshot here -->
+<img width="1894" height="855" alt="image" src="https://github.com/user-attachments/assets/bfd0ee09-03b3-4537-abe6-69a85768dca7" />
+
 
 <br><br><br><br><br>
 
 ### Catalogue
 
-<!-- Add screenshot here -->
+<img width="1900" height="858" alt="image" src="https://github.com/user-attachments/assets/37a19719-86a0-40be-8b0b-3cd98189f2e5" />
+
 
 <br><br><br><br><br>
 
 ### Cart
 
-<!-- Add screenshot here -->
+<img width="1896" height="837" alt="image" src="https://github.com/user-attachments/assets/ed197868-9e02-45ec-a825-35b5b2dfbf8d" />
+
 
 <br><br><br><br><br>
 
-### Login and registration
-
-<!-- Add screenshot here -->
-
-<br><br><br><br><br>
 
 ## Troubleshooting
 
